@@ -12,3 +12,9 @@ Markdown makes text look neat with simple symbols!
 print("Hello CIS1702")
 print("This is my first code example in Markdown!")
 ```
+
+## My Markdown To-Do List
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
