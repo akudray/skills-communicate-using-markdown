@@ -5,3 +5,10 @@ I’m learning how to use Markdown in GitHub.
 Markdown makes text look neat with simple symbols!
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## My First Code Example
+
+```python
+print("Hello CIS1702")
+print("This is my first code example in Markdown!")
+```
